@@ -14,7 +14,7 @@ const END_ROW = MAZE_ROWS - 2;
 const END_COL = MAZE_COLS - 2;
 
 // Computer movement speed during race (milliseconds between steps, medium difficulty)
-const COMPUTER_MOVE_SPEED = 300;
+const COMPUTER_MOVE_SPEED = 1000;
 
 // Keyboard keys for movement
 const UP_KEYS = ["ArrowUp", "KeyW", "w", "W"];
