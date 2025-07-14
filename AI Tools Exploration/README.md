@@ -12,7 +12,7 @@
 - **Prompt Given to AI:**
   - Provided a detailed prompt describing the topic, structure, and key points to cover in the slides. The AI generated the initial draft and layout based on this prompt, which was then refined and customized.
 - **Reference Blog:**
-  -  How to Make a Presentation with Gamma AI
+  -  https://youtu.be/V0lGbone1fM?si=3Ok8y-5InwPRZMDc
 
 ### 2. Video Creation
 - **Tool Used:** InVideo (https://invideo.io/)
@@ -25,6 +25,6 @@
 - **Prompt Given to AI:**
   - Provided a prompt describing the video content, style, and narration. The AI assisted in generating scenes and text overlays based on the prompt.
 - **Reference Blog:**
-  - InVideo AI Video Generator Tutorial
+  - https://youtu.be/4g6sOMaOQP8?si=17pvXioX1-YA23KP
 
 
